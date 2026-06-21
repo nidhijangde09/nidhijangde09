@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nidhi Jangde 👋
 
-<!--
-**nidhijangde09/nidhijangde09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst
+📍 Maharashtra, India
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python
+- Power BI
+- Excel
+- Data Cleaning
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+📌 Data Analyst Job Market Dashboard (Power BI)
+📌 Netflix Data Analysis (SQL + Power BI)
+
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/nidhi-jangde-73278227b
+Email: nidhijangde19@gmail.com
